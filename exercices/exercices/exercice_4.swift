@@ -8,8 +8,6 @@
 
 import Foundation
 
-import Foundation
-
 class ApiManager{
     static let sharedInstance = ApiManager()
     var baseURL : String = "https://api.randomuser.me/"
